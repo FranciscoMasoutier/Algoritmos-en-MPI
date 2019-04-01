@@ -14,7 +14,7 @@ Para el desarrollo de ésta actividad se busco dar respuesta a 3 problemas disti
 
 Y para cada uno de ellos se buscó diseñar 3 algoritmos diferentes en los que su presentarán:
 + Una solución secuencial del problema
-+ Implementación de las funciones uno a uno de MPI (MPI_Send y MPI_Recv)
-+ Modificación e implementación de las funciones MPI_Scatter y MPI_Gather
++ Implementación de las funciones de comunicación uno a uno de MPI (MPI_Send y MPI_Recv)
++ Modificación e implementación de las funciones para implementar MPI_Scatter y MPI_Gather
 
 Esto como práctica y evaluación del tema de Implementación con MPI.
